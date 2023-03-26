@@ -1,0 +1,29 @@
+h2
+{
+    line-height: 70%;
+}
+h3
+{
+    line-height: 5;
+}
+div 
+{
+    line-height: 1;
+}
+.left_block
+{
+    position: fixed;
+    left: 0;
+    width: 50%;
+    height: 100%;
+}
+.right_block
+{
+    position: fixed;
+    right: 0;
+    width: 50%;
+    height: 100%;
+}
+
+/* {position:fixed;left:0;top:0;width:50%;height:100%;background:blue;color:#fff;overflow:auto;}
+.block-2 {position:fixed;right:0;top:0;width:50%;height:100%;background:green;color:#fff;overflow:auto;} */
