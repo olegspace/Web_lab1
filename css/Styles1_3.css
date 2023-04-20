@@ -1,0 +1,47 @@
+body {
+  margin: 20px 3% 20px 3%;
+}
+
+div,
+h1,
+h2 {
+  text-align: center;
+}
+
+li {
+  padding: 3px 10px;
+}
+a.button {
+  background: grey;
+  color: #fff;
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}

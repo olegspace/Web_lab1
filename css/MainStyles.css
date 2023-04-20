@@ -1,0 +1,58 @@
+ul {
+  display: table;
+  margin: auto;
+}
+
+li {
+  display: table-cell;
+  text-align: center;
+  padding: 3px 10px;
+}
+
+a.button {
+  background: grey;
+  color: #fff;
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+}
+body {
+  margin: 20px 3% 20px 3%;
+}
+
+div,
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  line-height: 70%;
+}
+h3 {
+  line-height: 5;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
