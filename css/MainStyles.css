@@ -10,6 +10,9 @@ li {
 }
 
 a.button {
+  display: block;
+  width: 110px;
+  margin: 15px auto;
   background: grey;
   color: #fff;
   padding: 12px;
@@ -19,6 +22,7 @@ a.button {
   font-size: 18px;
   line-height: 1;
   font-weight: 100;
+  text-align: center;
 }
 body {
   margin: 20px 3% 20px 3%;
@@ -55,4 +59,9 @@ table th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
